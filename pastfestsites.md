@@ -1,7 +1,6 @@
 #Websites and locations of past fests
 
-##2015, 2016
-Sewanee
+##2015, 2016 Sewanee
 
 ##2012 UTC?
 
