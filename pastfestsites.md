@@ -1,6 +1,10 @@
 #Websites and locations of past fests
 
-##2015, 2016 Sewanee
+##2016 Sewanee
+March 5
+
+##2015 Sewanee
+March 7
 
 ##2012 UTC?
 
@@ -8,13 +12,13 @@
 
 ##2009 Lee U?
 
-##2005 (33) UTK
+##2005 (33*) UTK
 http://web.utk.edu/~germslav/zzz4download/fest2k5.html
 
-##2004 (32) UTK
+##2004 (32*) UTK
 http://web.utk.edu/~germslav/zzz4download/fest2k4.html
 
-##2003 (31) UTK
+##2003 (31*) UTK
 March 7-8
 http://web.utk.edu/~germslav/zzz4download/fest2k3.html
 
