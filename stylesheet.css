@@ -1,22 +1,26 @@
 body { 
 	background-color: white; 
-	color: #F2B6DB;
 	font-family: sans-serif;
 	margin: 0;
     padding: 0;
 }
 
-a {
-	color: #2BB5E3;
-}
-
 #banner {
-	background-color: #F2EBB6;
-	color: #2BB5E3;
+	background-color: #67BAD6;
+	color: #2010B3;
 	position: fixed;
 	width: 100%;
 	text-align: center;
 	z-index: 1;
+}
+
+#banner h1 {
+	margin-bottom: 0;
+}
+
+#banner h3 {
+	padding: 0;
+	margin-top: 0;
 }
 
 #titleBar {
@@ -24,10 +28,9 @@ a {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #333;
-	color: #2BB5E3;
+    background-color: #EAE9F5;
 	position: fixed;
-    top: 130px;
+    top: 100px;
 	left: 0;
     width: 100%;
 	z-index: 1;
@@ -40,22 +43,26 @@ a {
 
 #titleBar li a {
     display: block;
-	color: #2BB5E3;
     text-align: center;
+	color: black;
     padding: 14px 14px;
     text-decoration: none;
 }
 
+#titleBar li a.active {
+	background-color: #67BAD6;
+	/*border-top: 1px solid #555;*/
+	color: white;
+}
+
 #titleBar li a:hover {
-	background-color: #2BB5E3;
-	color: black;
-	/*text-transform: uppercase;*/
+	background-color: #67BAD6;
+	color: white;
 }
 
 #central {
 	position: absolute;
 	width: 100%;
 	left: 50px;
-	top: 200px;
-	color: black;
+	top: 170px;
 }
