@@ -5,9 +5,18 @@ body {
     padding: 0;
 }
 
+a {
+	text-decoration: none;
+	color: #67BAD6;
+}
+
+a:hover {
+	color: #2010B3;
+}
+
 #banner {
 	background-color: #67BAD6;
-	color: #2010B3;
+	color: #150980;
 	position: fixed;
 	width: 100%;
 	text-align: center;
@@ -16,17 +25,20 @@ body {
 
 #banner h1 {
 	margin-bottom: 0;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 }
 
 #banner h3 {
 	padding: 0;
 	margin-top: 0;
+	font-family: serif;
 }
 
 #titleBar {
 	list-style-type: none;
     margin: 0;
     padding: 0;
+	/*border-top: 1px solid #9B9FB3;*/
     overflow: hidden;
     background-color: #EAE9F5;
 	position: fixed;
@@ -50,19 +62,19 @@ body {
 }
 
 #titleBar li a.active {
-	background-color: #67BAD6;
-	/*border-top: 1px solid #555;*/
-	color: white;
+	background-color: #B1D8E6;
+	/*border-left: 2px solid #EAE9F5;*/
+	color: black;
 }
 
-#titleBar li a:hover {
-	background-color: #67BAD6;
+#titleBar li a:hover:not(.active) {
+	background-color: #9B9FB3;
 	color: white;
 }
 
 #central {
 	position: absolute;
-	width: 100%;
 	left: 50px;
+	right: 50px;
 	top: 170px;
 }
