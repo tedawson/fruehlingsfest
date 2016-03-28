@@ -7,7 +7,7 @@ This is a list of events based on previous fests, arranged in approximate order 
 "College Bowl" style cultural triva. *Could we update to have first round pub-quiz style?*
 
 ###Gilbert Bowl
-"College Bowl" style cultural triva - uses old Nat'l Germ Exam Questions.
+"College Bowl" style grammar questions - uses old Nat'l Germ Exam Questions.
 *Could we update to have first round pub-quiz style?*
 *Do we need to modify to reflect new nat'l exam?*
 
