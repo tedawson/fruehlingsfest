@@ -1,7 +1,7 @@
 #List of Fruehlingsfest Events
 
 ##Previously Held Events
-This is a list of events based on previous fests, arranged in approximate order of how commonly they've been held.
+This is a list of events based on previous fests, arranged in approximate order of how commonly they've been held. *Thoughts for changes are in italics.*
 
 ###Goethe Bowl
 "College Bowl" style cultural triva. *Could we update to have first round pub-quiz style?*
@@ -21,7 +21,7 @@ Baking Contest
 ###Skit/Music (Sometimes separate)
 
 ###Poetry Declamation
-Usually students recite two of three options provided in advance.
+Usually students recite two of three options provided in advance. More recently, poems are of students' choosing
 
 ###Extemporaneous Speaking
 
@@ -37,9 +37,11 @@ Usually students recite two of three options provided in advance.
 Seems to have been a regular event to honor custom designed name tags.
 
 ###Schnitzeljagd
-Held at Sewanee. Students follow clues to locations and complete some German task to get clue to next location.
+Held in 2015. Students follow clues to locations and complete some German task to get clue to next location.
 
 ###Folk Dancing
+
+###Karaoke Contest
 
 ###Software Contest
 Held in 1997, evidently not for first time (apparent rule change mentioned - no need to submit source code).
@@ -53,3 +55,6 @@ First held in 1997. (And never again?)
 Contest for best picture taken during Fest
 
 ###Lip-Syncing Contest
+
+###T-Shirt Design Contest
+To be held in advance of fest. Winning design used for fest t-shirt
